@@ -19,7 +19,7 @@
 
 ## 区块链
 
-* [什么是区块链](https://huzhou.site/2022/04/17/blockchainintro.html)
+* [什么是区块链](https://huzhou.site/2022/04/17/blockchain-intro.html)
 * [什么是以太坊](https://huzhou.site/2022/05/09/ethereum-intro.html)
 * [以太坊入门之MetaMask钱包的安装和使用](https://huzhou.site/2022/06/11/metamask-guide.html)
 * [以太坊入门之交易](https://huzhou.site/2022/07/16/eth-tx.html)
