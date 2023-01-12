@@ -2,10 +2,19 @@
 
 博客文章归类整理，便于查阅，博客地址：http://huzhou.site。
 
-```
-凡是新的事情在起头总是这样一来的，起初热心的人很多，而不久就冷淡下去，撒手不做了，因为他已经明白，不经过一番苦工是做不成的，而只有想做的人，才忍得过这番痛苦。——陀思妥耶夫斯基
+> 凡是新的事情在起头总是这样一来的，起初热心的人很多，而不久就冷淡下去，撒手不做了，
+> 因为他已经明白， 不经过一番苦工是做不成的，而只有想做的人，才忍得过这番痛苦。
+> 
+> —— 陀思妥耶夫斯基
 
-一个人做事，在动手之前，当然要详慎考虑；但是计划或方针已定之后，就要认定目标前进，不可再有迟疑不决的态度，这就是坚毅的态度。——邹韬奋
+```
+ _ __   ___ _ __ ___  _____   _____ _ __ ___ 
+| '_ \ / _ \ '__/ __|/ _ \ \ / / _ \ '__/ _ \
+| |_) |  __/ |  \__ \  __/\ V /  __/ | |  __/
+| .__/ \___|_|  |___/\___| \_/ \___|_|  \___|
+|_|
+
+Persevere meas victory!
 ```
 
 # 技术篇
@@ -45,7 +54,9 @@
 * [读《Java并发》- Java内存模型](https://huzhou.site/2022/03/28/jcip-jmm.html)
 
 ## Spring, Spring Boot, Spring Cloud
+
 ### Spring Boot
+
 * [Spring Boot之基础入门](https://huzhou.site/2018/05/22/spring-boot-intro.html)
 * [SpringBoot-工程结构、配置文件以及打包](https://huzhou.site/2018/06/07/springboot-project-overview.html)
 * [Spring Boot JPA使用详解](https://huzhou.site/2018/06/27/spring-boot-jpa-guide.html)
@@ -61,6 +72,7 @@
 * [使用Springboot开发websocket程序(四)——使用RabbitMQ作为STOMP消息代理](https://huzhou.site/2019/11/12/springboot-websocket-chatroom-with-rabbitmq.html)
 
 ### Spring
+
 * [使用Spring的RestTemplate发送GET请求，并支持传递Request body参数](https://huzhou.site/2018/10/31/spring-resttemplate-get-with-body.html)
 * [Spring事务管理一：Spring事务简介](https://huzhou.site/2018/03/07/spring-transaction-intro.html)
 * [Spring事务管理二：Spring事务管理器](https://huzhou.site/2018/03/07/spring-transaction-manage.html)
@@ -72,6 +84,7 @@
 * [给Spring注册Bean的几种方式](https://huzhou.site/2020/05/07/methods-to-add-beans-to-spring.html)
 
 ### Spring Cloud
+
 * [Spring Cloud简介](https://huzhou.site/2018/07/20/springcloud-intro.html)
 * [Spring Cloud Config之配置集成化](https://huzhou.site/2018/08/14/springcloud-config-center-with-git.html)
 * [Spring Cloud服务注册中心Eureka](https://huzhou.site/2018/08/15/springcloud-eureka-standalone.html)
@@ -97,12 +110,14 @@
 * [Docker入门系列四——容器](https://huzhou.site/2019/07/03/docker-container.html)
 
 ## 数据库
+
 * [MySQL慢查询分析](https://huzhou.site/2017/04/04/mysql-slow-query-analysis.html)
 * [MySQL中批量插入和批量更新](https://huzhou.site/2018/02/27/mysql-batch-insert-update.html)
 * [Mysql开启Binlog并做数据备份](https://huzhou.site/2019/08/28/mysql-binlog-guide.html)
 * [Mysql binlog格式](https://huzhou.site/2019/08/28/mysql-binlog-format.html)
 
 ## 设计模式
+
 * [Java设计模式(1)-什么是设计模式](https://huzhou.site/2020/05/26/what-is-designpattern.html)
 * [Java设计模式(2)-软件设计遵循的七大原则](https://huzhou.site/2020/05/27/seven-principles-for-software-design.html)
 * [Java设计模式(3)-单例模式](https://huzhou.site/2020/05/29/java-singleton-pattern.html)
@@ -134,12 +149,14 @@
 * [高性能Javascript--脚本的无阻塞加载策略](https://huzhou.site/2017/04/05/javascript-non-blocking-load.html)
 
 ## 运维
+
 * [linux常见操作整理](https://huzhou.site/2017/04/05/common-operation-of-linux.html)
 * [nginx的下载、安装和启动](https://huzhou.site/2017/05/15/nginx-download-install-and-start.html)
 * [ubuntu下ssh关闭密码登陆，采用公钥认证登陆](https://huzhou.site/2017/08/14/auth-with-public-key-by-ssh-on-ubuntu.html)
 * [使用TpLink的DDNS让外网访问本地服务](https://huzhou.site/2018/06/09/expose-local-server-by-ddns-of-tplink.html)
 
 ## 其他
+
 * [微服务-Martin Fowler](https://huzhou.site/2018/05/29/what-is-microservice.html)
 * [微服务架构的理论基础 - 康威定律](https://huzhou.site/2018/05/29/microservice-conways-law.html)
 * [使用Github的Webhook实现代码库与应用的交互](https://huzhou.site/2019/07/02/github-webhook.html)
@@ -147,6 +164,7 @@
 * [分布式事务的几种解决方案](https://huzhou.site/2020/04/15/solutions-of-distributed-transaction.html)
 
 # 其他
+
 * [从其他git服务器完整迁移到自建git服务器](https://huzhou.site/2017/06/08/git-repository-full-migrate.html)
 * [Astah professional 7.2版本破解文件](https://huzhou.site/2017/11/22/astah-professional-7.2-crack-download.html)
 * [redis desktop manager桌面工具](https://huzhou.site/2017/11/23/redis-desktop-manager-crack.html)
