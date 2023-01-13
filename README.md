@@ -25,7 +25,7 @@ Persevere meas victory!
 * [GoLang学习——初识go语言](https://huzhou.site/2022/07/21/go-intro.html)
 * [GoLang学习——Go的代码风格](https://huzhou.site/2022/07/30/go-style.html)
 * [GoLang学习——变量](https://huzhou.site/2022/08/02/go-var.html)
-* [GoLang学习——常量]()
+* [GoLang学习——常量](https://huzhou.site/2022/09/10/go-const.html)
 
 ## 区块链
 
